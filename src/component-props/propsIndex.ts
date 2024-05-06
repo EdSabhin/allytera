@@ -1,0 +1,6 @@
+export { default as navbarProps } from "./navbarProps"
+export { default as headerProps } from "./headerProps"
+export { default as sidebarProps } from "./sidebarProps"
+export { default as optionsProps } from "./optionsProps"
+export { default as mainProps } from "./mainProps"
+export { default as footerProps } from "./footerProps"
